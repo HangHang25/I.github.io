@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Language" content="vi">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1258">
-<title>New Page 2</title>
+
 </head>
 
 <body bgcolor="#FFCCCC">
